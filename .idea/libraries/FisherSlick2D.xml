@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="FisherSlick2D">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slick2d/FisherSlick2D.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick2d/ibxm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick2d/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick2d/jnlp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick2d/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick2d/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick2d/tinylinepp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
